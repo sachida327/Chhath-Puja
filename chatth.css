@@ -128,8 +128,16 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
 
 }
+.mar{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
 marquee img{
   margin: 10px;
+  border:3px solid gold;
+  border-radius:10px;
+  
 }
 
   
